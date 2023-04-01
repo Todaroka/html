@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Learn English</title>
+    <link rel="stylesheet" href="2style.css">
+</head>
+<body>
+    <h1>Check Your English</h1>
+    <p>
+        <img src="./img/showcase.jpg">
+        </p>
+    <h4>Vocabulary</h4>
+    <table>
+        <tr>
+  <th colspan="2"><strong>1.</strong> Match the words with their definition.</th>
+    </tr>
+  <tr><td>1) compulsory</td><td><strong>A)</strong> able to be used</td></tr>
+  <tr><td>2) comprehensive</td><td><strong>B)</strong> a king of education in which pupils of different abilities go to the same school</td></tr>
+  <tr><td>3) available</td><td><strong>C)</strong> to go regularly to a certain place</td></tr>
+  <tr><td>4) to learn</td><td><strong>D)</strong> must be done because it is the law</td></tr>
+  <tr><td>5) to study</td><td><strong>E)</strong> to get the theory of the subject</td></tr>
+  <tr><td>6) to attend</td><td><strong>F)</strong> to get some practical skills</td></tr>
+  </table>
+  <br>
+ <h4>2. Work in pairs. Take turns asking and answering the questions</h4> 
+  <ul id="menu">
+      <li>What do you know about the system of education in our country?</li>
+      <li>Is primary school compulsory in Ukraine?</li>
+      <li>At what age do children start going to school in our country?</li>
+      <li>What types of schools are there in Ukraine?</li>
+      <li>Which school subject do you have?</li>
+      </ul>
+      <br>
+      <h4>3. Share the information about your schooling</h4>
+      <ol>
+         <li>When did you start school?</li>
+         <li>What school was it?</li>
+         <li>Have you ever changed schools? Why?</li>
+         <li>What exams have you taken(are going to take)?</li>
+         <li>What are you plans for the future?</li>
+         </ol>
+       <br>
+     <p><strong>THE STATE OF UKRAINE</strong><br>Beginning in the mid-1959s, outbursts of political protest against the totalitarian system gained momentum in Ukraine. An increasing number of illegal literature was published, and several dissident organisation and group appeared. In late 1980s Gorbachev's perestroika and glasnost served to develop the society. In 1988 the <em>Ukrainian Helsinki Union</em> was organised. In 1989 the <em>Rukh National Movement for Perestroika</em> in Ukraine was formed (since 1990 known as the <em>Narodnyi Rukh of Ukraine</em>).</p>
+     <footer><strong>Thanks you, Learn English. </strong></footer>
+</body>
+</html>
